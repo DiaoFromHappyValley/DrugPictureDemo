@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DrugImages>
+  <DrugImage  name="1.jpg" expireDate="2019-07-01"/>
+  <DrugImage  name="2.jpg" expireDate="2019-07-01"/>
+  <DrugImage  name="3.jpg" expireDate="2019-07-01"/>
+</DrugImages>
