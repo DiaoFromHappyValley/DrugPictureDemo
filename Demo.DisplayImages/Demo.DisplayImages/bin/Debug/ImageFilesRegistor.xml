@@ -1,25 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DrugImages>
-  <DrugImage name="4.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="5.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="1.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="3.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="7.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="8.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="11.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="9.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="10.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="13.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="17.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="14.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="19.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="15.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="18.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="20.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="21.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="23.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="25.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="24.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="27.jpg" ExpireDate="2019-08-16" />
-  <DrugImage name="28.jpg" ExpireDate="2019-08-16" />
+  <DrugImage billNum="1" name="1.jpg" ExpireDate="2019-08-19" />
+  <DrugImage billNum="3" name="3.jpg" ExpireDate="2019-08-19" />
+  <DrugImage billNum="4" name="4.jpg" ExpireDate="2019-08-19" />
+  <DrugImage billNum="5" name="5.jpg" ExpireDate="2019-08-19" />
 </DrugImages>

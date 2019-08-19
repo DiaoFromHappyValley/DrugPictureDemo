@@ -23,3 +23,11 @@ D:\G4工作文件夹\sprint4\Demo.DisplayImages\ProfileViewControl\obj\Debug\Pro
 D:\G4工作文件夹\sprint4\Demo.DisplayImages\ProfileViewControl\obj\Debug\ProfileControl.csproj.GenerateResource.Cache
 D:\G4工作文件夹\sprint4\Demo.DisplayImages\ProfileViewControl\obj\Debug\ProfileViewControl.dll
 D:\G4工作文件夹\sprint4\Demo.DisplayImages\ProfileViewControl\obj\Debug\ProfileViewControl.pdb
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\ProfileViewControl\bin\Debug\ProfileViewControl.dll
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\ProfileViewControl\bin\Debug\ProfileViewControl.pdb
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\ProfileViewControl\obj\Debug\ProfileControl.csprojResolveAssemblyReference.cache
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\ProfileViewControl\obj\Debug\MedDispense.UI.ProfileControl.resources
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\ProfileViewControl\obj\Debug\ProfileViewControl.Properties.Resources.resources
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\ProfileViewControl\obj\Debug\ProfileControl.csproj.GenerateResource.Cache
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\ProfileViewControl\obj\Debug\ProfileViewControl.dll
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\ProfileViewControl\obj\Debug\ProfileViewControl.pdb

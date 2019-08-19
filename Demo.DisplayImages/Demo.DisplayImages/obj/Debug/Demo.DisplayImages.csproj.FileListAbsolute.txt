@@ -18,3 +18,14 @@ D:\G4工作文件夹\sprint4\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Dem
 D:\G4工作文件夹\sprint4\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Demo.DisplayImages.Form1.resources
 D:\G4工作文件夹\sprint4\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Demo.DisplayImages.Properties.Resources.resources
 D:\G4工作文件夹\sprint4\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Demo.DisplayImages.csproj.GenerateResource.Cache
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\bin\Debug\Demo.DisplayImages.exe.config
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\bin\Debug\Demo.DisplayImages.exe
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\bin\Debug\Demo.DisplayImages.pdb
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\bin\Debug\ProfileViewControl.dll
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\bin\Debug\ProfileViewControl.pdb
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Demo.DisplayImages.Form1.resources
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Demo.DisplayImages.Properties.Resources.resources
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Demo.DisplayImages.csproj.GenerateResource.Cache
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Demo.DisplayImages.exe
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Demo.DisplayImages.pdb
+D:\G4工作文件夹\sprint4\Git\DrugPictureDemo\Demo.DisplayImages\Demo.DisplayImages\obj\Debug\Demo.DisplayImages.csprojResolveAssemblyReference.cache

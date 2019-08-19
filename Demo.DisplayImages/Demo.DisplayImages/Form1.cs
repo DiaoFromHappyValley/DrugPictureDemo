@@ -133,7 +133,7 @@ namespace Demo.DisplayImages
             groupBox1.Controls.Clear();
             profileControls.Clear();
 
-            var count = 28;
+            var count = 12;
 
             FlowLayoutPanel fp = new FlowLayoutPanel { Dock = DockStyle.Fill };
 
@@ -147,6 +147,12 @@ namespace Demo.DisplayImages
 
             groupBox1.Controls.Add(fp);
         }
+
+        /// <summary>
+        /// 多任务picturebox起
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button4_Click(object sender, EventArgs e)
         {
             RefrehUI(false);
